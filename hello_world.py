@@ -5,4 +5,6 @@ import sys
 sys.stdout.write("Hello, ")
 sys.stdout.write("World!")
 sys.stdout.write("\n")
-print("Hello, World!")
+print("Hello, Worldd!")
+print('what the fuck is this?')
+
